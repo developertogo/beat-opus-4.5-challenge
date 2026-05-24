@@ -1,3 +1,5 @@
+![Claude Opus 4.5 Benchmark](Claude-Opus-4.5-small.jpg)
+
 # Performance Optimization Challenge: Beating Claude Opus 4.5
 
 This repository contains the results of the **Anthropic Performance Optimization Exercise** (from [original_performance_takehome](https://github.com/anthropics/original_performance_takehome)).
