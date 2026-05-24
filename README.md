@@ -4,6 +4,8 @@ This repository contains the results of the **Anthropic Performance Optimization
 
 The objective of this challenge is to optimize a slow, simulated VLIW CPU "kernel" implementation by significantly reducing the number of simulated CPU clock cycles required to run it.
 
+## 📊 Optimization Benchmark Results
+
 ![alt text](demo.svg)
 
 ## 🏆 The Achievement
